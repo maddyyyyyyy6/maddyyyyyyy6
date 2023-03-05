@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently a student learner<br>beginner react developer<br>
+# ♠ About Myself:
+I'm currently a student learner and <br> a beginner Programmer💻⌨ <br>
 
 
 ## 🌐 Socials:
