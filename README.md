@@ -1,7 +1,7 @@
 # ♠ About Myself:
 I'm currently a student learner and <br> a beginner Programmer💻⌨ <br>
 ### To Connect with me:<br>
-  📫:maddycoder@gmail.com<br>
+  📫:maddycoders@gmail.com<br>
   🐦:[Twitter: maddyCoder](https://twitter.com/Maddymaddyyy18)<br>
   🔗:[LinkedIn: maddyCoder](https://www.linkedin.com/in/maddy-maddy-067301243/)
   
